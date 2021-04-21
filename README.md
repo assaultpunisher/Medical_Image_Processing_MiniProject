@@ -1,1 +1,1 @@
-# Medical_Image_Processing_MiniProject
+# Medical Image Processing Mini Project
